@@ -1,0 +1,21 @@
+body {
+    background-color: whitesmoke;
+}
+ol {
+    background-color: lightpink;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+li {
+    background-color: palevioletred;
+    list-style-position: inside;
+    margin: 10px;
+    padding: 10px;
+    
+}
+span {
+    background-color: brown;
+    margin: 10px;
+    padding: 10px;
+}
